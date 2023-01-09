@@ -5,5 +5,6 @@
 
 
 <script setup>
-    import VueHeader from '../components/home/VueHeader.vue';
+import VueHeader from '../components/home/VueHeader.vue'
+
 </script>
